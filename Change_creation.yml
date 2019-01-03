@@ -8,11 +8,11 @@
       data:
         assignment_group: Unix Server Operations
         category: Server Infrastructure
-        short_description: 'RM-Platform change 01/03/2019'
+        short_description: 'change 01/03/2019'
         start_date: '2019-01-08 00:00:00'
         type: Normal
-      instance: dev50141
-      password: Welsnow321#
+      instance: dev57354
+      password: Ctss-2013 
       state: present
       table: change_request
       username: admin
